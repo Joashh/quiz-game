@@ -10,11 +10,18 @@ E-Guess is a desktop application built with C# and Visual Studio that uses adapt
 
 ## 📷 Screenshots
 
-### Main Interface  
-![Main UI](quiz-game/Screenshot 2025-05-25 191222.png)
+### Teacher's Login Interface
+![Main UI](login.png)
 
-### Progress Chart  
-![Progress](images/screenshot2.png)
+  ### Teacher's Homepage
+![Main UI](teacherhome.png)
+
+  ### Student's Login
+![Main UI](studentlogin.png)
+
+
+### Student's Game Room
+![Progress](gameplay.png)
 
 ## 🚀 How to Run
 1. Open the solution file in Visual Studio
