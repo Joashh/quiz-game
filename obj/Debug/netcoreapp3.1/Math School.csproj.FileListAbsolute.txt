@@ -1,0 +1,59 @@
+C:\Users\admin\source\repos\Math School\obj\Debug\netcoreapp3.1\Math_School.Properties.Resources.resources
+C:\Users\admin\source\repos\Math School\obj\Debug\netcoreapp3.1\Math_School.STARTUP.resources
+C:\Users\admin\source\repos\Math School\obj\Debug\netcoreapp3.1\Math_School.TEACHER.resources
+C:\Users\admin\source\repos\Math School\obj\Debug\netcoreapp3.1\Math School.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Math School\obj\Debug\netcoreapp3.1\Math School.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Math School\obj\Debug\netcoreapp3.1\Math School.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Math School\obj\Debug\netcoreapp3.1\Math School.AssemblyInfo.cs
+C:\Users\admin\source\repos\Math School\obj\Debug\netcoreapp3.1\Math School.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Math School\bin\Debug\netcoreapp3.1\Math School.exe
+C:\Users\admin\source\repos\Math School\bin\Debug\netcoreapp3.1\Math School.deps.json
+C:\Users\admin\source\repos\Math School\bin\Debug\netcoreapp3.1\Math School.runtimeconfig.json
+C:\Users\admin\source\repos\Math School\bin\Debug\netcoreapp3.1\Math School.runtimeconfig.dev.json
+C:\Users\admin\source\repos\Math School\bin\Debug\netcoreapp3.1\Math School.dll
+C:\Users\admin\source\repos\Math School\bin\Debug\netcoreapp3.1\Math School.pdb
+C:\Users\admin\source\repos\Math School\obj\Debug\netcoreapp3.1\Math School.dll
+C:\Users\admin\source\repos\Math School\obj\Debug\netcoreapp3.1\Math School.pdb
+C:\Users\admin\source\repos\Math School\obj\Debug\netcoreapp3.1\Math School.genruntimeconfig.cache
+C:\Users\admin\source\repos\Math School\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\admin\source\repos\Math School\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\admin\source\repos\Math School\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\admin\source\repos\Math School\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\admin\source\repos\Math School\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\admin\source\repos\Math School\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\admin\source\repos\Math School\obj\Debug\netcoreapp3.1\Math School.csproj.CopyComplete
+C:\Users\admin\source\repos\Math School\obj\Debug\netcoreapp3.1\Math_School.Login.resources
+C:\Users\admin\source\repos\Math School\obj\Debug\netcoreapp3.1\Math_School.loginstudent.resources
+C:\Users\admin\source\repos\Math School\obj\Debug\netcoreapp3.1\Math_School.mathact.resources
+C:\Users\admin\source\repos\Math School\obj\Debug\netcoreapp3.1\Math_School.homepageforteacher.resources
+C:\Users\admin\source\repos\Math School\bin\Debug\netcoreapp3.1\zxing.dll
+C:\Users\admin\source\repos\Math School\obj\Debug\netcoreapp3.1\Math_School.QRcode.resources
+C:\Users\admin\source\repos\Math School\bin\Debug\netcoreapp3.1\AForge.dll
+C:\Users\admin\source\repos\Math School\bin\Debug\netcoreapp3.1\AForge.Video.dll
+C:\Users\admin\source\repos\Math School\bin\Debug\netcoreapp3.1\AForge.Video.DirectShow.dll
+C:\Users\admin\source\repos\Math School\obj\Debug\netcoreapp3.1\Math_School.admin.resources
+C:\Users\admin\source\repos\Math School\obj\Debug\netcoreapp3.1\Math_School.credits.resources
+C:\Users\admin\source\repos\Math School\bin\Debug\netcoreapp3.1\kk-removebg-preview.png
+C:\Users\admin\source\repos\Math School\obj\Debug\netcoreapp3.1\Math_School.Studenthomepage.resources
+C:\Users\admin\source\repos\Math School\obj\Debug\netcoreapp3.1\Math_School.tutorial.resources
+C:\Users\admin\source\repos\Math School\obj\Debug\netcoreapp3.1\Math_School.secondmathact.resources
+C:\Users\admin\source\repos\Math School\obj\Debug\netcoreapp3.1\Math_School.grade2mathact.resources
+C:\Users\admin\source\repos\Math School\obj\Debug\netcoreapp3.1\Math_School.grade3mathact.resources
+C:\Users\admin\source\repos\Math School\obj\Debug\netcoreapp3.1\Math_School.loadingform.resources
+C:\Users\admin\source\repos\Math School\obj\Debug\netcoreapp3.1\Math School.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Math School\bin\Debug\netcoreapp3.1\ComponentFactory.Krypton.Docking.dll
+C:\Users\admin\source\repos\Math School\bin\Debug\netcoreapp3.1\ComponentFactory.Krypton.Navigator.dll
+C:\Users\admin\source\repos\Math School\bin\Debug\netcoreapp3.1\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\admin\source\repos\Math School\bin\Debug\netcoreapp3.1\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\admin\source\repos\Math School\bin\Debug\netcoreapp3.1\ComponentFactory.Krypton.Workspace.dll
+C:\Users\admin\source\repos\Math School\bin\Debug\netcoreapp3.1\ComponentFactory.Krypton.Docking.pdb
+C:\Users\admin\source\repos\Math School\bin\Debug\netcoreapp3.1\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\admin\source\repos\Math School\bin\Debug\netcoreapp3.1\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\admin\source\repos\Math School\bin\Debug\netcoreapp3.1\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\admin\source\repos\Math School\bin\Debug\netcoreapp3.1\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\admin\source\repos\Math School\obj\Debug\netcoreapp3.1\Math_School.grade2secondmathact.resources
+C:\Users\admin\source\repos\Math School\obj\Debug\netcoreapp3.1\Math_School.instruction.resources
+C:\Users\admin\source\repos\Math School\obj\Debug\netcoreapp3.1\Math_School.viewallscore.resources
+C:\Users\admin\source\repos\Math School\obj\Debug\netcoreapp3.1\Math_School.grade2secondgame.resources
+C:\Users\admin\source\repos\Math School\obj\Debug\netcoreapp3.1\Math_School.Form2.resources
+C:\Users\admin\source\repos\Math School\obj\Debug\netcoreapp3.1\Math_School.grade2puzzle.resources

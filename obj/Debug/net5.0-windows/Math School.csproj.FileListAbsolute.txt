@@ -1,0 +1,54 @@
+C:\Users\admin\source\repos\Math School\obj\Debug\net5.0-windows\Math_School.admin.resources
+C:\Users\admin\source\repos\Math School\obj\Debug\net5.0-windows\Math_School.credits.resources
+C:\Users\admin\source\repos\Math School\obj\Debug\net5.0-windows\Math_School.grade2mathact.resources
+C:\Users\admin\source\repos\Math School\obj\Debug\net5.0-windows\Math_School.grade3mathact.resources
+C:\Users\admin\source\repos\Math School\obj\Debug\net5.0-windows\Math_School.homepageforteacher.resources
+C:\Users\admin\source\repos\Math School\obj\Debug\net5.0-windows\Math_School.loadingform.resources
+C:\Users\admin\source\repos\Math School\obj\Debug\net5.0-windows\Math_School.Login.resources
+C:\Users\admin\source\repos\Math School\obj\Debug\net5.0-windows\Math_School.loginstudent.resources
+C:\Users\admin\source\repos\Math School\obj\Debug\net5.0-windows\Math_School.mathact.resources
+C:\Users\admin\source\repos\Math School\obj\Debug\net5.0-windows\Math_School.Properties.Resources.resources
+C:\Users\admin\source\repos\Math School\obj\Debug\net5.0-windows\Math_School.QRcode.resources
+C:\Users\admin\source\repos\Math School\obj\Debug\net5.0-windows\Math_School.secondmathact.resources
+C:\Users\admin\source\repos\Math School\obj\Debug\net5.0-windows\Math_School.STARTUP.resources
+C:\Users\admin\source\repos\Math School\obj\Debug\net5.0-windows\Math_School.Studenthomepage.resources
+C:\Users\admin\source\repos\Math School\obj\Debug\net5.0-windows\Math_School.TEACHER.resources
+C:\Users\admin\source\repos\Math School\obj\Debug\net5.0-windows\Math_School.tutorial.resources
+C:\Users\admin\source\repos\Math School\obj\Debug\net5.0-windows\Math School.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Math School\obj\Debug\net5.0-windows\Math School.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Math School\obj\Debug\net5.0-windows\Math School.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Math School\obj\Debug\net5.0-windows\Math School.AssemblyInfo.cs
+C:\Users\admin\source\repos\Math School\obj\Debug\net5.0-windows\Math School.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Math School\bin\Debug\net5.0-windows\Math School.exe
+C:\Users\admin\source\repos\Math School\bin\Debug\net5.0-windows\kk-removebg-preview.png
+C:\Users\admin\source\repos\Math School\bin\Debug\net5.0-windows\Math School.deps.json
+C:\Users\admin\source\repos\Math School\bin\Debug\net5.0-windows\Math School.runtimeconfig.json
+C:\Users\admin\source\repos\Math School\bin\Debug\net5.0-windows\Math School.runtimeconfig.dev.json
+C:\Users\admin\source\repos\Math School\bin\Debug\net5.0-windows\Math School.dll
+C:\Users\admin\source\repos\Math School\bin\Debug\net5.0-windows\ref\Math School.dll
+C:\Users\admin\source\repos\Math School\bin\Debug\net5.0-windows\Math School.pdb
+C:\Users\admin\source\repos\Math School\bin\Debug\net5.0-windows\AForge.dll
+C:\Users\admin\source\repos\Math School\bin\Debug\net5.0-windows\AForge.Video.dll
+C:\Users\admin\source\repos\Math School\bin\Debug\net5.0-windows\AForge.Video.DirectShow.dll
+C:\Users\admin\source\repos\Math School\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\admin\source\repos\Math School\bin\Debug\net5.0-windows\zxing.dll
+C:\Users\admin\source\repos\Math School\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\admin\source\repos\Math School\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\admin\source\repos\Math School\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\admin\source\repos\Math School\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\admin\source\repos\Math School\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\admin\source\repos\Math School\bin\Debug\net5.0-windows\ComponentFactory.Krypton.Docking.dll
+C:\Users\admin\source\repos\Math School\bin\Debug\net5.0-windows\ComponentFactory.Krypton.Navigator.dll
+C:\Users\admin\source\repos\Math School\bin\Debug\net5.0-windows\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\admin\source\repos\Math School\bin\Debug\net5.0-windows\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\admin\source\repos\Math School\bin\Debug\net5.0-windows\ComponentFactory.Krypton.Workspace.dll
+C:\Users\admin\source\repos\Math School\bin\Debug\net5.0-windows\ComponentFactory.Krypton.Docking.pdb
+C:\Users\admin\source\repos\Math School\bin\Debug\net5.0-windows\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\admin\source\repos\Math School\bin\Debug\net5.0-windows\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\admin\source\repos\Math School\bin\Debug\net5.0-windows\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\admin\source\repos\Math School\bin\Debug\net5.0-windows\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\admin\source\repos\Math School\obj\Debug\net5.0-windows\Math School.csproj.CopyComplete
+C:\Users\admin\source\repos\Math School\obj\Debug\net5.0-windows\Math School.dll
+C:\Users\admin\source\repos\Math School\obj\Debug\net5.0-windows\ref\Math School.dll
+C:\Users\admin\source\repos\Math School\obj\Debug\net5.0-windows\Math School.pdb
+C:\Users\admin\source\repos\Math School\obj\Debug\net5.0-windows\Math School.genruntimeconfig.cache

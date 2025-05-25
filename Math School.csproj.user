@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ShowAllFiles>false</ShowAllFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="advancelevel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="codecreated.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CreateQuestions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="credits.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="grade2mathact.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="grade2puzzle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="grade2secondgame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="grade2secondmathact.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="grade3mathact.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="homepageforteacher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="loadingform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="loginstudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="mathact.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="mixedtopic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QRcode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="secondmathact.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="STARTUP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Studenthomepage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TEACHER.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="tutorial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="viewallscore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>
